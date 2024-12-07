@@ -1,12 +1,12 @@
 {
-  "name": "hexo-deployer-s3-cn",
+  "name": "hexo-deployer-s3-qiniu",
   "version": "0.3.0",
-  "description": "S3 deployer plugin for Hexo 6.x",
+  "description": "Qiniu S3 deployer plugin for Hexo 6.x",
   "main": "index",
   "keywords": [
     "hexo",
     "s3",
-    "China",
+    "Qiniu",
     "deployer"
   ],
   "author": "Connor Ma <matian1103@qq.com>",
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/matian2014/hexo-deployer-s3-cn"
+    "url": "https://github.com/matian2014/hexo-deployer-s3-qiniu"
   },
   "license": {
     "type": "MIT"
